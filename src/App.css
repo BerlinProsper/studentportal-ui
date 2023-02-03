@@ -1,0 +1,44 @@
+.main{
+  text-align: center;
+  justify-content: center;
+  display:flex;
+  padding: 50px 0 200px;
+  background-color: rgb(249, 252, 253);
+
+}
+
+
+.main .msg{
+  text-align: center;
+}
+.sub-main .sub{
+  outline-style: solid;
+  text-align: left;
+  justify-content: left;
+  display:flex;
+  justify-content:left;
+  padding: 100px, 10px, 10px, 10px;
+  height:550px;
+  width:35%;
+  box-shadow: 25px, 25px, 50px, 25px, rgb(21, 18, 18);
+  padding-top: 30px;
+  border-radius: 10px;
+  background-color: rgb(241, 247, 248);
+}
+
+
+.sub-main{
+  outline-style: groove;
+  text-align: left;
+  justify-content: left;
+  display:flex;
+  justify-content:left;
+  padding: 100px, 10px, 10px, 10px;
+  height:650px;
+  width:75%;
+  box-shadow: 25px, 25px, 50px, 25px, rgb(21, 18, 18);
+  padding-top: 30px;
+  border-radius: 10px;
+  background-color: rgb(227, 238, 246);
+
+}
